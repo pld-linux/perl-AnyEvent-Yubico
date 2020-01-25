@@ -4,7 +4,6 @@
 #
 %define		pdir	AnyEvent
 %define		pnam	Yubico
-%include	/usr/lib/rpm/macros.perl
 Summary:	AnyEvent based Perl module for validating YubiKey OTPs
 Summary(pl.UTF-8):	Oparty na AnyEvent moduł Perla do sprawdzania poprawności OTP YubiKey
 Name:		perl-AnyEvent-Yubico
