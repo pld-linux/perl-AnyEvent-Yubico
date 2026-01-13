@@ -8,7 +8,7 @@ Summary:	AnyEvent based Perl module for validating YubiKey OTPs
 Summary(pl.UTF-8):	Oparty na AnyEvent moduł Perla do sprawdzania poprawności OTP YubiKey
 Name:		perl-AnyEvent-Yubico
 Version:	0.9.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/Perl
 #Source0Download: https://github.com/Yubico/yubico-perl-client/releases
